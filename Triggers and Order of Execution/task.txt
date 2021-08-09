@@ -1,0 +1,3 @@
+ Practically-focused task:
+
+    Implement Trigger that can be run only once
